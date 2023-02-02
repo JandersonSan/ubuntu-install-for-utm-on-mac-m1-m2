@@ -12,7 +12,7 @@ Este é um pequeno guia sobre como instalar o Ubuntu 22.04 LTS na máquina virtu
 
 <h2>Tutorial</h2>
 
-<p>Primeiro passo: Iremos fazer o download e instalação do UTM virtual machines: <a href="https://mac.getutm.app" title="UTM"> clique aqui </a></p>
+<p>Primeiro passo: Iremos fazer o download e instalação do UTM: <a href="https://mac.getutm.app" title="UTM"> clique aqui </a></p>
 
 <p align="center">
   <img alt="UTM" src="img/wallpaper-1.png" width="75%">
