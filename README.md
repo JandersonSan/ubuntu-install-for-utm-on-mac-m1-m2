@@ -18,7 +18,7 @@ Este é um pequeno guia sobre como instalar o Ubuntu 22.04 LTS na máquina virtu
   <img alt="UTM" src="img/wallpaper-1.png" width="75%">
 </p>
 
-<p>Segundo passo: Iremos fazer o download da ISO: <a href="https://cdimage.ubuntu.com/jammy/daily-live/20230112/" title="Linux"> clique aqui </a></p>
+<p>Segundo passo: Iremos fazer o download da ISO 64-bit ARM (ARMv8/AArch64): <a href="https://cdimage.ubuntu.com/jammy/daily-live/20230112/" title="Linux"> clique aqui </a></p>
 
 <p align="center">
   <img alt="UTM" src="img/wallpaper-2.png" width="75%">
