@@ -38,14 +38,24 @@ Parte 2: agora iremos customizar o ambiente Linux e depois adicionar a (ISO) do 
 Parte 3: iremos add a quantidade de memória do SO.
 </p>
 
+<p>
 Parte 4: iremos escolhe a capacidade de armazenamento do SO.
+</p>
 
+<p>
 Parte 5: nesta parte irá aparecer a opção de compartilha seu sistema principal com a máquina virtual, caso não queira fazer o compartilhamento é só escolher continuar.
+</p>
 
+<p>
 Parte 6: agora iremos escolher o nome da nossa máquina virtual e depois iremos salvar.
+</p>
 
-Parte 7: Ao entra na tela inicial irá pedir um login, só digitar "ubuntu"...
+<p>
+Parte 7: Ao entra na tela inicial irá pedir um login é só digitar: ubuntu...
+</p>
 
+<p>
 Parte 8: Em Desenvolvimento ...
-  
+</p>
+
 </body>
