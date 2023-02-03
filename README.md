@@ -26,49 +26,26 @@ chips Apple Silicon (M1/M2). Também ensinarei passo a passo como configurar o U
   
 <p>Terceiro passo: agora iremos configurar a nossa máquina virtual.</p>
 
-<p align="center">
-  <img alt="UTM" src="img/img-1.png" width="75%">
-</p>
-
 <p>
 Parte 1: iremos clica em “Create a New Virtual Machine” e depois em “Virtualize”.
-</p>
-
-<p align="center">
-  <img alt="UTM" src="img/img-2.png" width="75%">
 </p>
 
 <p>
 Parte 2: agora iremos customizar o ambiente Linux e depois adicionar a (ISO) do SO que queremos fazer a virtualização.
 </p>
 
-<p align="center">
-  <img alt="UTM" src="img/img-3.png" width="75%">
-</p>
-
 <p>
 Parte 3: iremos add a quantidade de memória do SO.
 </p>
 
-<p align="center">
-  <img alt="UTM" src="img/img-4.png" width="75%">
-</p>
-
 Parte 4: iremos escolhe a capacidade de armazenamento do SO.
-
-<p align="center">
-  <img alt="UTM" src="img/img-5.png" width="75%">
-</p>
 
 Parte 5: nesta parte irá aparecer a opção de compartilha seu sistema principal com a máquina virtual, caso não queira fazer o compartilhamento é só escolher continuar.
 
-<p align="center">
-  <img alt="UTM" src="img/img-6.png" width="75%">
-</p>
-
 Parte 6: agora iremos escolher o nome da nossa máquina virtual e depois iremos salvar.
 
+Parte 7: Ao entra na tela inicial irá pedir um login, só digitar "ubuntu"...
 
-<h1> Em desenvolvimento </h1>
+Parte 8: Em Desenvolvimento ...
   
 </body>
