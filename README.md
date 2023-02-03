@@ -43,16 +43,28 @@ Parte 2: agora iremos customizar o ambiente Linux e depois adicionar a (ISO) do 
 </p>
 
 <p align="center">
-  <img alt="UTM" src="img/img-2.png" width="75%">
+  <img alt="UTM" src="img/img-3.png" width="75%">
 </p>
 
 <p>
 Parte 3: iremos add a quantidade de memória do SO.
 </p>
 
+<p align="center">
+  <img alt="UTM" src="img/img-4.png" width="75%">
+</p>
+
 Parte 4: iremos escolhe a capacidade de armazenamento do SO.
 
+<p align="center">
+  <img alt="UTM" src="img/img-5.png" width="75%">
+</p>
+
 Parte 5: nesta parte irá aparecer a opção de compartilha seu sistema principal com a máquina virtual, caso não queira fazer o compartilhamento é só escolher continuar.
+
+<p align="center">
+  <img alt="UTM" src="img/img-6.png" width="75%">
+</p>
 
 Parte 6: agora iremos escolher o nome da nossa máquina virtual e depois iremos salvar.
 
