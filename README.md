@@ -15,13 +15,13 @@ chips Apple Silicon (M1/M2). Também ensinarei passo a passo como configurar o U
 <p>Primeiro passo: Iremos fazer o download e instalação do UTM: <a href="https://mac.getutm.app" title="UTM"> clique aqui </a></p>
 
 <p align="center">
-  <img alt="UTM" src="img/wallpaper-1.png" width="75%">
+  <img alt="UTM" src="img/wallpaper-1.png" width="3360">
 </p>
 
 <p>Segundo passo: Iremos fazer o download da ISO 64-bit ARM (ARMv8/AArch64): <a href="https://cdimage.ubuntu.com/jammy/daily-live/20230112/" title="Linux"> clique aqui </a></p>
 
 <p align="center">
-  <img alt="UTM" src="img/wallpaper-2.png" width="75%">
+  <img alt="UTM" src="img/wallpaper-2.png" width="3360">
 </p>
   
 <p>Terceiro passo: agora iremos configurar a nossa máquina virtual.</p>
@@ -31,7 +31,7 @@ Parte 1: iremos clica em “Create a New Virtual Machine” e depois em “Virtu
 </p>
 
 <p align="center">
-  <img alt="UTM" src="img/wallpaper-3.png" width="75%">
+  <img alt="UTM" src="img/wallpaper-3.png" width="3360">
 </p>
 
 <p>
@@ -55,7 +55,7 @@ Parte 6: agora iremos escolher o nome da nossa máquina virtual e depois iremos 
 </p>
 
 <p>
-Parte 7: Ao entra na tela inicial irá pedir um login é só digitar: ubuntu
+Parte 7: Ao entra na tela inicial irá pedir um “login” é só digitar: ubuntu
 </p>
 
 <p>
