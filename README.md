@@ -7,7 +7,7 @@ Este é um pequeno guia sobre como instalar o Ubuntu 22.04 LTS na máquina virtu
 chips Apple Silicon (M1/M2). Também ensinarei passo a passo como configurar o Ubuntu.</p>
 
 <p align="center">
-  <img alt="Ubuntu 22.04" src="img/wallpaper.png" width="3360">
+  <img alt="Ubuntu 22.04" src="img/wallpaper-0.png" width="3360">
 </p>
 
 <h3>Tutorial</h3>
@@ -28,6 +28,10 @@ chips Apple Silicon (M1/M2). Também ensinarei passo a passo como configurar o U
 
 <p>
 Parte 1: iremos clica em “Create a New Virtual Machine” e depois em “Virtualize”.
+</p>
+
+<p align="center">
+  <img alt="UTM" src="img/wallpaper-3.png" width="75%">
 </p>
 
 <p>
