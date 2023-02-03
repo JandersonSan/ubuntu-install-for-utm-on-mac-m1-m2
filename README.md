@@ -51,7 +51,7 @@ Parte 6: agora iremos escolher o nome da nossa máquina virtual e depois iremos 
 </p>
 
 <p>
-Parte 7: Ao entra na tela inicial irá pedir um login é só digitar: ubuntu...
+Parte 7: Ao entra na tela inicial irá pedir um login é só digitar: ubuntu
 </p>
 
 <p>
