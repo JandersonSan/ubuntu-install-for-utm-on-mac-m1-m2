@@ -18,7 +18,7 @@ chips Apple Silicon (M1/M2). Também ensinarei passo a passo como configurar o U
   <img alt="UTM" src="img/wallpaper-1.png" width="3360">
 </p>
 
-<p>Segundo passo: Iremos fazer o download da ISO 64-bit ARM (ARMv8/AArch64): <a href="https://cdimage.ubuntu.com/jammy/daily-live/20230112/" title="Linux"> clique aqui </a></p>
+<p>Segundo passo: Iremos fazer o download da ISO 64-bit ARM (ARMv8/AArch64): <a href="https://cdimage.ubuntu.com/jammy/daily-live/current/" title="Linux"> clique aqui </a></p>
 
 <p align="center">
   <img alt="UTM" src="img/wallpaper-2.png" width="3360">
